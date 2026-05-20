@@ -29,7 +29,7 @@ states, and cities using sales order data (2022–2026).
 ![Page 4](Screenshots/Page4.png)
 
 ## 📊 Data Source
-- **Dataset:** Superstore Sales (or your actual dataset name)
+- **Dataset:** Superstore Sales
 - **Time Period:** 2022–2026
 - **Scope:** US regions, states, and cities
 
