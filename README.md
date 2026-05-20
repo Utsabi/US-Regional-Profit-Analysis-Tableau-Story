@@ -4,8 +4,7 @@ An interactive data story exploring profit performance across US regions,
 states, and cities using sales order data (2022–2026).
 
 ## 🔗 Live Demo
-[View Interactive Story on Tableau Public](https://public.tableau.com/your-link-here](https://public.tableau.com/app/profile/utsabi.dangol4104/viz/ProfitOverview_17793069907820/Story1)
-
+[View Interactive Story on Tableau Public](https://public.tableau.com/views/ProfitOverview_17793069907820/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## 📖 Story Pages
 
 | Page | Question | Key Insight |
